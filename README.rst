@@ -10,6 +10,8 @@ contains a collection of tools to access online Astronomical data. Each web
 service has its own sub-package. For example, to interface with the `SIMBAD
 website <http://simbad.u-strasbg.fr/simbad/>`_, use the ``simbad`` sub-package:
 
+THis is my modification
+
 .. code-block:: python
 
     >>> from astroquery.simbad import Simbad
